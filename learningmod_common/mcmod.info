@@ -1,0 +1,16 @@
+[
+{
+	"modid": "LearningMod",
+	"name": "Learning Mod",
+	"description": "Learning Modding Mod!",
+	"version": "0.0.1",
+	"url": "www.nocturnal_knight.com",
+	"updateUrl": "",
+	"authorList": ["Nocturnal_Knight"],
+	"credits": "Pahimar and other Tutorials",
+	"logFile": "image here",
+	"screenshots": ["image here"],
+	"parent": "",
+	"dependencies": []
+}
+]
